@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="navigate-vs" style="flex-grow: 0; flex-shrink: 0; height: 60px; width: 160px;">
+        <ui:Button name="navigate-button" style="width: 145px; height: 51px; border-top-left-radius: 25px; border-top-right-radius: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; background-color: rgb(239, 254, 91); flex-direction: row;">
+            <ui:Image name="button-image" style="height: 33px; background-color: rgba(243, 230, 230, 0); background-image: none; width: 33px; align-items: stretch; display: flex; align-self: center; justify-content: space-around; top: auto; right: auto; left: 7px; flex-shrink: 0;" />
+            <ui:Label text="Label" name="label-navigate-button" style="font-size: 20px; -unity-font-style: bold; right: auto; left: 15px;" />
+        </ui:Button>
+    </ui:VisualElement>
+</ui:UXML>

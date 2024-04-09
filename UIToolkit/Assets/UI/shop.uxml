@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/UI/Assets/background.png?fileID=2800000&amp;guid=0ce9ef850a0004dcea74be53da56780e&amp;type=3#background&apos;); flex-direction: column;">
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:VisualElement name="text-container" style="flex-grow: 1; height: 200px; align-self: stretch; align-items: flex-end; flex-direction: row; justify-content: flex-end;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; flex-direction: row;">
+            <ui:VisualElement name="system-containter" style="flex-grow: 0; flex-shrink: 0; width: 400px; height: 1080px; align-self: auto; align-items: auto; flex-direction: column; flex-wrap: nowrap; justify-content: flex-start;">
+                <ui:VisualElement name="home-back-container" style="flex-grow: 0; flex-direction: row; width: 400px; height: 200px; flex-shrink: 0;" />
+                <ui:VisualElement name="shop-navigate-container" style="flex-grow: 0; width: 400px; flex-shrink: 0; height: 708px; align-self: center; align-items: center; justify-content: flex-start;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="big-container" style="flex-grow: 1; width: 1350px; height: 900px; left: 0; flex-shrink: 1; top: 0; justify-content: flex-start; align-items: center; align-self: auto; flex-direction: column; flex-wrap: nowrap;">
+                <ui:VisualElement name="product-containar" style="flex-grow: 0; flex-shrink: 0; width: 1350px; height: 633px; flex-direction: row; align-self: center; align-items: center; justify-content: center;" />
+                <ui:VisualElement name="window-buy-product" style="flex-grow: 0; flex-shrink: 0; width: 500px; height: 200px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

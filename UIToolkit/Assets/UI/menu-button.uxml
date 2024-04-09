@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/MenuStyle.uss?fileID=7433441132597879392&amp;guid=b9d7f3dccfd67499d9ae34671b27e67d&amp;type=3#MenuStyle" />
+    <ui:VisualElement name="button-container" class="button-container">
+        <ui:Button parse-escape-sequences="false" display-tooltip-when-elided="true" name="menu-button" text="button" class="menu-button" style="-unity-font-style: bold;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "cc1f325c7e1d04a4fac01d91741382f7",
+    "UxmlPath": "Assets/UI/shop-button.uxml",
+    "CanvasX": -304,
+    "CanvasY": -12,
+    "CanvasWidth": 1341,
+    "CanvasHeight": 825,
+    "MatchGameView": false,
+    "ZoomScale": 0.5,
+    "PanOffset": {
+        "x": 320.10308837890627,
+        "y": 55.584808349609378
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": false,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}

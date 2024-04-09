@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement name="container" style="flex-grow: 0; flex-shrink: 0; width: 30%; height: 50%; margin-top: 81px; justify-content: flex-start; align-items: center;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{CE609200-CA9F-6C9A-B95A-C51325E171B3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="122c0a5d-3f41-446d-a53b-30119d4fe909" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Inventory/DragAndDropManipulator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShopScripts/ShopSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopScripts/Editor/EditorShopFields.cs" />
+      <File FileName="Assets/Scripts/ShopScripts/SystemButton.cs" />
+      <File FileName="Assets/Scripts/ShopScripts/Product.cs" />
+      <File FileName="Assets/Scripts/Inventory/InventoryScript.cs" Line="21" Column="6" />
+      <File FileName="Assets/UI/Inventory/slot-grid.uss" Line="30" Column="22" />
+      <File FileName="Assets/Scripts/Inventory/DragAndDropManipulator.cs" Line="81" Column="69" />
+      <File FileName="Assets/Scripts/MenuSystem.cs" Line="68" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UIToolkit" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Inventory" expanded="True">
+                  <Node name="DragAndDropManipulator.cs" selected="True" />
+                </Node>
+                <Node name="ShopScripts" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Settings" expanded="True" />
+              <Node name="UI" expanded="True">
+                <Node name="Inventory" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

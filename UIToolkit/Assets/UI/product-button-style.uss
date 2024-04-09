@@ -1,0 +1,15 @@
+.product-button-style {
+    background-color: rgb(255, 255, 255);
+    width: 230px;
+    height: 404px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+}
+
+.shop-window-style {
+    width: 1350px;
+    height: 633px;
+}

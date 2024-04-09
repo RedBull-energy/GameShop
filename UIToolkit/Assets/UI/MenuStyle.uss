@@ -1,0 +1,49 @@
+.menu-button {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-width: 10px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    background-color: rgb(84, 103, 180);
+    font-size: 21px;
+    -unity-font-style: bold;
+    width: 350px;
+    height: 40px;
+    transition-property: width, border-color, height;
+    transition-duration: 200ms, 200ms, 200ms;
+    color: rgb(250, 249, 249);
+}
+
+.menu-button:hover {
+    background-color: rgb(59, 73, 135);
+    border-left-color: rgb(137, 33, 33);
+    border-right-color: rgb(137, 33, 33);
+    border-top-color: rgb(137, 33, 33);
+    border-bottom-color: rgb(137, 33, 33);
+    width: 385px;
+    height: 44px;
+    transition-property: width, border-color, height;
+    transition-duration: 500ms, 500ms, 500ms;
+    transition-timing-function: ease-out-bounce, ease, ease-out-bounce;
+    transition-delay: 0ms, 500ms, 0ms;
+}
+
+.button-container {
+    flex-grow: 0;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 60px;
+}
+
+.animate-slide-left {
+    margin-left: 150px;
+}

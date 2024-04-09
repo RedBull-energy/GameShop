@@ -1,0 +1,27 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Inventory/slot-grid.uss?fileID=7433441132597879392&amp;guid=0b9c84f929c0d47838c1eb42b8e1b2e3&amp;type=3#slot-grid" />
+    <ui:VisualElement name="general-window" style="flex-grow: 1; justify-content: flex-start; align-items: center; align-self: auto; background-image: url(&apos;project://database/Assets/UI/Assets/background.png?fileID=2800000&amp;guid=0ce9ef850a0004dcea74be53da56780e&amp;type=3#background&apos;); -unity-background-image-tint-color: rgb(87, 87, 87); flex-direction: row;">
+        <ui:VisualElement name="navigate-container" style="flex-grow: 0; width: 400px; height: 800px; justify-content: flex-start; align-items: center; align-self: center; flex-shrink: 0;" />
+        <ui:VisualElement style="flex-grow: 0; flex-shrink: 0;">
+            <ui:VisualElement name="Inventory-window" style="flex-grow: 0; width: 1000px; height: 500px; flex-shrink: 0; background-color: rgb(29, 33, 106);">
+                <ui:VisualElement name="slots">
+                    <ui:VisualElement name="slot_row1" class="slot_row">
+                        <ui:VisualElement name="slot1" class="slot" />
+                        <ui:VisualElement name="slot2" class="slot" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="slot_row2" class="slot_row">
+                        <ui:VisualElement name="slot1" class="slot" />
+                        <ui:VisualElement name="slot2" class="slot" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="object" class="object" style="flex-grow: 1;" />
+                <ui:VisualElement name="inventory-activ" class="inventory-activ" style="flex-grow: 1;">
+                    <ui:VisualElement name="slot_row1" class="slot_row">
+                        <ui:VisualElement name="slot1" class="slot" />
+                        <ui:VisualElement name="slot2" class="slot" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
